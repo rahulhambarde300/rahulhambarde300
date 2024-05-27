@@ -4,9 +4,10 @@
 I am a full-stack developer with experience in testing and DevOps as well. Proficient in Java, Springboot and various JS frameworks like Node, React, Next and Express.
 
 
-### <img src="https://i.gifer.com/Z5cP.gif" width="50"> A little more about me...
-- 🌱 I’m currently learning AWS.
-- 🧑‍🎓 MACS student at Dalhousie university.
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhtampiZzR4OGVyc3NzYnc2OGt6ZG1qOWxqMXh5b3NyeWp4eWo3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KhfhFiMe85ddnnZxHm/giphy.gif" width="40" height="40"> A little more about me...
+- MACS student 🧑‍🎓 at Dalhousie university.
+- I love video games 🎮.
+- I’m currently learning 🌱 AWS.
 
 ## Technical Skills
 ### Frontend
