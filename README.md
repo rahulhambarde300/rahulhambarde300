@@ -9,7 +9,7 @@ I am a full-stack developer with experience in testing and DevOps as well. Profi
 - I love video games 🎮.
 - I’m currently learning 🌱 AWS.
 
-## Technical Skills
+## 🛠 &nbsp;Technical Skills
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,8 +35,7 @@ I am a full-stack developer with experience in testing and DevOps as well. Profi
 ![GCP](https://img.shields.io/badge/gcp-EA4235?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git)
 
-
-## 📧 Contact Me
+## 🤝🏻 &nbsp;Contact Me
 
 [![Email](https://img.shields.io/badge/rahul.hambarde@dal.ca-%23B271B5.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rahul.hambarde@dal.ca)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/rahul-hambarde-921b28198/)
